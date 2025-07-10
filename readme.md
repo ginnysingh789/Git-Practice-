@@ -1,3 +1,3 @@
 Hello Github Ginny 
 Practicing 
-Learning new things
+Learning new things.
