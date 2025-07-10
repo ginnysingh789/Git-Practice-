@@ -1,3 +1,3 @@
-Hello Github Ginny 
+ lets go Hello Github Ginny 
 Practicing 
 Learning new things.
